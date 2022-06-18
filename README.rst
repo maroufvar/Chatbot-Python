@@ -14,18 +14,5 @@
    :target: https://pypi.org/project/python-telegram-bot/
    :alt: Supported Python versions
 
-.. image:: https://img.shields.io/badge/Bot%20API-6.0-blue?logo=telegram
-   :target: https://core.telegram.org/bots/api-changelog
-   :alt: Supported Bot API versions
-
-.. image:: https://img.shields.io/pypi/dm/python-telegram-bot
-   :target: https://pypistats.org/packages/python-telegram-bot
-   :alt: PyPi Package Monthly Download
-
-.. image:: https://readthedocs.org/projects/python-telegram-bot/badge/?version=stable
-   :target: https://docs.python-telegram-bot.org/en/stable/
-    $ git clone https://github.com/python-telegram-bot/python-telegram-bot
-    $ cd python-telegram-bot
-    $ python setup.py install
 
 
